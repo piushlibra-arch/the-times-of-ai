@@ -2,9 +2,6 @@
 
 AI-powered news aggregation platform that curates the latest AI and technology news using multi-agent intelligence.
 
-## 🚀 Live Demo
-
-**[https://sanjayhjp121.github.io/the-times-of-ai](https://sanjayhjp121.github.io/the-times-of-ai)**
 
 ## How It Works
 
