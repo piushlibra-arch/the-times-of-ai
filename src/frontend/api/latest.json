@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-10-23T09:13:06.386526+00:00",
+  "articles": [],
+  "count": 0,
+  "pipeline_info": {
+    "version": "3.0_with_deep_intelligence",
+    "processing_time": 123.31753277778625,
+    "components": [
+      "collection",
+      "bulk_scoring",
+      "initial_consensus",
+      "deep_intelligence",
+      "final_consensus"
+    ],
+    "agents": {
+      "bulk_agents": 3,
+      "deep_intelligence_agents": 2
+    },
+    "content_breakdown": {
+      "headline": 0,
+      "articles": 0,
+      "research_papers": 0
+    },
+    "classification_metadata": {
+      "total_processed": 0,
+      "candidates": {
+        "headlines": 0,
+        "articles": 0,
+        "research_papers": 0
+      },
+      "selected": {
+        "headlines": 0,
+        "articles": 0,
+        "research_papers": 0
+      }
+    }
+  }
+}
